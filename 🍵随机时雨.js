@@ -21,7 +21,7 @@ export class example extends plugin {
       /** 功能名称 */
       name: '🍵随机时雨🍵',
       /** 功能描述 */
-      dsc: '适当玩梗，尊重他人',
+      dsc: '适当玩梗，尊重他人 [1.0.0 Preview] ',
       /** https://oicqjs.github.io/oicq/#events */
       event: 'message',
       /** 优先级，数字越小等级越高 */
