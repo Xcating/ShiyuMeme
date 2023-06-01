@@ -13,7 +13,7 @@ import cfg from'../../lib/config/config.js'
 import common from'../../lib/common/common.js'
 const path=process.cwd()
 //图片需要从1开始用数字命名并且保存为jpg或者gif格式，存在Yunzai-Bot/resources/shiyu/目录下
-let jpg_number = 14 //输入jpg图片数量
+let jpg_number = 15 //输入jpg图片数量
 
 export class example extends plugin {
   constructor () {
